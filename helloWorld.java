@@ -1,8 +1,8 @@
 /* HelloWorld.java */
 
-public class HelloWorld
+class HelloWorld
 {
 	public static void main(String[] args) {
-		System.out.println("Hello World built with jenkins 4");
+		System.out.println("Hello World built with jenkins 5");
 	}
 }
