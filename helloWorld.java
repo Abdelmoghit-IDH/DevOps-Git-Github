@@ -3,6 +3,6 @@
 public class HelloWorld
 {
 	public static void main(String[] args) {
-		System.out.println("Hello World from dev account with fork!");
+		System.out.println("Hello World built with jenkins");
 	}
 }
